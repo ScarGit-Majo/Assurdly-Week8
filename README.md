@@ -26,22 +26,22 @@ Setup Instructions
 2. Install Dependencies 
    Run the following command to install the necessary dependencies:
    'cmd'
-   npm install
+   `npm install`
 
 3. Cypress Configuration
    Cypress should be installed automatically with `npm install`. If you don't have Cypress installed yet, run:
    'cmd'
-   npm install cypress --save-dev
+   `npm install cypress --save-dev`
 
-4. Running Tests
+5. Running Tests
    To run the Cypress tests, use the following command:
    'cmd'
-   npx cypress open
+   `npx cypress open`
    This will open the Cypress Test Runner, where you can choose the tests you want to run.
 
 Alternatively, you can run tests in headless mode:
 'cmd'
-npx cypress run
+`npx cypress run`
 
 Test Scripts
 
