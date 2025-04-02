@@ -54,10 +54,7 @@ The following test scripts have been included in this repository:
 5. FAQ Test: Verifies the FAQ link and checks that the FAQ section is visible.
 
 Test Locations
-[**cypress/e2e folder**](./cypress/e2e)
-
-
-- All test scripts are located in the `cypress/e2e` folder.
+- All test scripts are located in [**cypress/e2e folder**](./cypress/e2e)
 - Tests are organized by page functionality, e.g., `01-home.cy.js`, `02-services.cy.js`, etc.
 
 Contact
